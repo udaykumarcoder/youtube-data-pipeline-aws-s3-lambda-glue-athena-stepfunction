@@ -40,7 +40,11 @@ This pipeline automates the end-to-end process of collecting, cleaning, and anal
 The pipeline supports **10 regions** and runs on a configurable schedule via AWS EventBridge.
 
 ---
-
+## Credits and Acknowledgements
+This is a learning project completed by following the original project and tutorial by Darshil Parmar.
+- Original repository: https://github.com/darshilparmar/youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction
+- Attribution: The project structure, implementation, and documentation are based on the original author's work. This repository is shared for learning and portfolio purposes, not as an entirely original implementation.
+All credit for the original project goes to its author. Please refer to the original repository for the source project and any applicable license terms.
 ## Architecture
 
 The pipeline follows the **Medallion Architecture** pattern with three data layers:
